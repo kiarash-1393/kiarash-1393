@@ -38,7 +38,7 @@ mindset:      "Ship intelligence, not just code."
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -66,7 +66,7 @@ I design and ship **end-to-end AI systems** — from raw video pixels to real-ti
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -78,7 +78,7 @@ I design and ship **end-to-end AI systems** — from raw video pixels to real-ti
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.icons8.com/fluency/96/prize.png" width="80"/>
+<span style="font-size:64px;">🏆</span>
 
 ### 🥇 Gold Medal — Robotics
 **National / Regional Robotics Competition**
@@ -90,7 +90,7 @@ I design and ship **end-to-end AI systems** — from raw video pixels to real-ti
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.icons8.com/fluency/96/medal2.png" width="80"/>
+<span style="font-size:64px;">🎖️</span>
 
 ### 🥈 IFIA Silver Medal
 **International Federation of Inventors' Associations**
@@ -119,7 +119,7 @@ I design and ship **end-to-end AI systems** — from raw video pixels to real-ti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -172,7 +172,7 @@ I design and ship **end-to-end AI systems** — from raw video pixels to real-ti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -202,7 +202,7 @@ I design and ship **end-to-end AI systems** — from raw video pixels to real-ti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -245,7 +245,7 @@ I design and ship **end-to-end AI systems** — from raw video pixels to real-ti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -310,7 +310,7 @@ Persian-language voice assistant with speech recognition, weather retrieval, app
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -318,20 +318,18 @@ Persian-language voice assistant with speech recognition, weather retrieval, app
 
 <div align="center">
 
-```mermaid
-timeline
-    title Kiarash Mehrpour — Engineering Timeline
-    Foundations : Discovered Programming : Built First Python Scripts : Explored Robotics Fundamentals
-    Robotics Era : Competitive Robotics Training : 🥇 Gold Medal — Robotics Competition : 🥈 IFIA Silver Medal
-    AI Awakening : Studied Machine Learning : Learned OpenCV & YOLO : First Computer Vision Prototypes
-    Deep Specialization : Built Sports Analytics Engine : Integrated xG & Tactical Models : Shipped Tactical Vision AI
-    Full-Stack Expansion : Built Medical AI Dashboard : Built Bilingual Portfolio : Explored Cloud & DevOps
-    Present Horizon : Refining Real-Time AI Systems : Scaling Tactical Vision AI : Exploring Advanced Robotics AI
-```
+<table>
+<tr><td width="22%" align="center"><b>🌱 Foundations</b></td><td>Discovered programming, built first Python scripts, explored robotics fundamentals</td></tr>
+<tr><td width="22%" align="center"><b>🤖 Robotics Era</b></td><td>Competitive robotics training → 🥇 Gold Medal in Robotics → 🥈 IFIA Silver Medal</td></tr>
+<tr><td width="22%" align="center"><b>🧠 AI Awakening</b></td><td>Studied machine learning, learned OpenCV & YOLO, shipped first computer vision prototypes</td></tr>
+<tr><td width="22%" align="center"><b>⚽ Deep Specialization</b></td><td>Built a full sports analytics engine, integrated xG & tactical models, shipped Tactical Vision AI</td></tr>
+<tr><td width="22%" align="center"><b>🌐 Full-Stack Expansion</b></td><td>Built a Medical AI dashboard, a bilingual portfolio, and explored cloud & DevOps</td></tr>
+<tr><td width="22%" align="center"><b>🚀 Present Horizon</b></td><td>Refining real-time AI systems, scaling Tactical Vision AI, exploring advanced robotics AI</td></tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -355,7 +353,7 @@ timeline
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -369,7 +367,7 @@ timeline
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -385,7 +383,7 @@ My robotics foundation (🥇 Gold Medal, 🥈 IFIA Silver Medal) shapes how I en
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -403,7 +401,7 @@ My robotics foundation (🥇 Gold Medal, 🥈 IFIA Silver Medal) shapes how I en
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -412,12 +410,12 @@ My robotics foundation (🥇 Gold Medal, 🥈 IFIA Silver Medal) shapes how I en
 <div align="center">
 
 > *"The best AI systems don't just detect patterns — they understand intent. That's the line I try to build across every time."*
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+>
+> **— Kiarash Mehrpour**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -435,7 +433,7 @@ I'm actively looking to collaborate on:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
@@ -451,7 +449,7 @@ If my work has helped you build, learn, or ship faster, consider fueling the nex
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=100%25" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:00F5FF,100:0F0C29&height=2&width=100%25&section=footer" />
 
 <br/>
 
