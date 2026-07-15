@@ -468,7 +468,6 @@ If my work has helped you build, learn, or ship faster, consider fueling the nex
 <br/>
 
 <details>
-<summary align="center"><b>⚙️ Deploy Your Own Snake Animation</b></summary>
 
 <br/>
 
