@@ -185,13 +185,12 @@ I design and ship **end-to-end AI systems** — from raw video pixels to real-ti
 
 ### 🧠 Artificial Intelligence & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,pandas&theme=dark" />
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
 ### 🌐 Web & Application Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite,flask,fastapi&theme=dark" />
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### 🗄️ Databases
